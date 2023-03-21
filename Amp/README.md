@@ -1,7 +1,4 @@
 # Amp
-# Hope you DDoSing retards are happy.
-# Go Ham And HMU If you need anything
-# IG @ FLEXINGONLAMERS
 # commands <
 # gcc -o NAME NAME.C -pthread
 # EX - gcc -o ldap ldap.c -pthread
